@@ -1,4 +1,4 @@
-# net-services-setup
+# Net services deployment files
 Deployment scripts for various useful network services.
 
 Current services:
